@@ -90,7 +90,7 @@ bash sakib-virus.sh
 ```
 
 ## ScreenShots :- 
-  ![Screenshot_20220613-103741_zoom](https://user-images.githubusercontent.com/70594016/173283913-54b6a34b-e3e8-4d9e-a906-56dc08ffc44e.png)
+  ![Screenshot_20220613-103741_zoom](https://i.ibb.co/LRpbD33/Screenshot-20240428-181815-Termux-2.jpg)
 
  ## CONNECT WITH US :
 
