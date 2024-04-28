@@ -1,7 +1,7 @@
 # SAKIB-VIRUS
 # Android Crash 
 
-[img](https://i.ibb.co/WvGLKxP/20240428-180834.jpg)
+[IMG BY SAKIB](https://i.ibb.co/WvGLKxP/20240428-180834.jpg)
 
 
 
